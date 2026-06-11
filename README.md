@@ -34,7 +34,7 @@ mi-proyecto-nexshop/
 
 ## Diagrama ER
 
-!\[Diagrama ER](docs/diagrama\_er.png)
+https://github.com/zdaniels14/mi-proyecto-nexshop/blob/main/docs/diagrama_er.png
 
 
 
